@@ -1,5 +1,7 @@
 # Player Habits in Mario Kart World
 
+Link to survey: https://docs.google.com/forms/d/14x-BYEPQ5eJQrRzjpX4enuEI4wPQj3RDCrmIkLwFkaA/edit
+
 ## Overview
 
 This master's capstone project investigated behavioral differences between casual and competitive players in Mario Kart World.
